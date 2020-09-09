@@ -15,3 +15,5 @@ Uno de mis libros favoritos es "Los Miserables".
 Esta es una diferencia staged
 
 A partir de aquí van cambios de master.
+
+Esta parte del master debe fusionarse con cabecera.
