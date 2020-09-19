@@ -14,12 +14,6 @@ Uno de mis libros favoritos es "Los Miserables".
 
 Esta es una diferencia staged
 
-<<<<<<< HEAD
 A partir de aquí van cambios de master.
 
 Esta parte del master debe fusionarse con cabecera.
-=======
-esto va en la CABECERA
-
-Esto se irá guardango en CABECERA.
->>>>>>> cabecera
