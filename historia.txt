@@ -17,3 +17,5 @@ Esta es una diferencia staged
 esto va en la CABECERA
 
 Esto se irá guardango en CABECERA.
+
+Nueva linea de cabecera para provoca error.
