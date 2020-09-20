@@ -17,3 +17,5 @@ Esta es una diferencia staged
 A partir de aquí van cambios de master.
 
 Esta parte del master debe fusionarse con cabecera.
+
+Estoy escribiendo esta linea desde github.
